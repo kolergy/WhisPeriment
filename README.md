@@ -1,5 +1,5 @@
 # WhisPeriment
-Experimenting with the Whisper model
+Experimenting with the openAI Whisper model
 
 This is a simple Jupyter notebook to experiment with the whisper model from OpenAi
 
